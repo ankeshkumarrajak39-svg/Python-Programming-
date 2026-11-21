@@ -1,0 +1,36 @@
+Order_ID,City,Food_Category,Order_Amount,Delivery_Time,Rating
+1001,Indore,Pizza,450,32,4.5
+1002,Bhopal,Burger,220,28,4.1
+1003,Mumbai,Indian,380,45,4.3
+1004,Delhi,Chinese,310,38,3.9
+1005,Pune,Biryani,260,35,4.6
+1006,Jaipur,Pizza,520,41,4.2
+1007,Chennai,South Indian,180,24,4.7
+1008,Hyderabad,Biryani,340,30,4.8
+1009,Kolkata,Chinese,290,36,4.0
+1010,Sagar,Indian,150,22,4.4
+1011,Indore,Burger,190,26,3.8
+1012,Bhopal,Pizza,410,39,4.5
+1013,Mumbai,South Indian,230,31,4.2
+1014,Delhi,Biryani,470,50,3.7
+1015,Pune,Chinese,330,34,4.1
+1016,Jaipur,Indian,280,27,4.6
+1017,Chennai,Burger,210,29,4.0
+1018,Hyderabad,Pizza,560,42,4.9
+1019,Kolkata,South Indian,170,25,4.3
+1020,Sagar,Chinese,240,33,3.9
+1021,Indore,Biryani,360,37,4.7
+1022,Bhopal,South Indian,200,23,4.2
+1023,Mumbai,Burger,250,40,3.8
+1024,Delhi,Pizza,620,55,4.4
+1025,Pune,Indian,390,32,4.5
+1026,Jaipur,Chinese,310,43,3.6
+1027,Chennai,Biryani,420,35,4.8
+1028,Hyderabad,Indian,270,28,4.1
+1029,Kolkata,Pizza,480,47,4.6
+1030,Sagar,Burger,160,21,4.0
+1031,Indore,Chinese,300,31,4.2
+1032,Bhopal,Biryani,350,44,4.7
+1033,Mumbai,Pizza,540,48,4.5
+1034,Delhi,South Indian,220,26,4.1
+1035,Pune,Burger,180,20,4.3
